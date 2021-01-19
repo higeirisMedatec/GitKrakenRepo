@@ -1,3 +1,3 @@
 # README
 ## GitkrakenRepo
-Init main  branch
+Init release  branch
